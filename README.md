@@ -1,6 +1,6 @@
 # StorkeLabel
 
-![Image](https://github.com/markchangjz/StorkeLabel/blob/master/screenshot/screenshot.png){:width="1px"}
+![Image](https://github.com/markchangjz/StorkeLabel/blob/master/screenshot/screenshot.png)
 
 * Reference:
 	1. [http://stackoverflow.com/questions/1103148/how-do-i-make-uilabel-display-outlined-text](http://stackoverflow.com/questions/1103148/how-do-i-make-uilabel-display-outlined-text)
