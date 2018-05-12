@@ -6,6 +6,11 @@
 //  Copyright © 2017年 MarkChang. All rights reserved.
 //
 
+/*
+ IB_DESIGNABLE Custom Views in Interface Builder
+ https://useyourloaf.com/blog/ib-designable-custom-views-in-interface-builder/
+ */
+
 #import <UIKit/UIKit.h>
 
 IB_DESIGNABLE
