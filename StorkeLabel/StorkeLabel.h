@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+IB_DESIGNABLE
 @interface StorkeLabel : UILabel
 
 @property (nonatomic) IBInspectable UIColor *storkeColor;
